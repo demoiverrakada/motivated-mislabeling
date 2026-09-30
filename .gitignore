@@ -1,0 +1,11 @@
+# Third-party data — fetched, not redistributed
+transcripts/
+manifest.json
+
+# Full run outputs (contain echoed transcript text / judge reasoning)
+pilot_results.json
+pilot_results_confounded_run1.json
+*.log
+dbg_*
+__pycache__/
+*.pyc
